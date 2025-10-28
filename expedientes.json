@@ -1,0 +1,176 @@
+[
+    {
+        "id": 1001,
+        "nombre": "Firulais",
+        "edad": 4,
+        "peso": 12.5,
+        "raza": "Labrador",
+        "tamano": "Mediano",
+        "tipo": "Canino",
+        "fecha": "20/10/2025",
+        "enfermedad": "",
+        "historial_clinico": [
+            {
+                "fecha": "15/09/2025",
+                "enfermedad": "Parásitos",
+                "tratamiento": "Desparasitante oral"
+            }
+        ]
+    },
+    {
+        "id": 1002,
+        "nombre": "Misu",
+        "edad": 2,
+        "peso": 4.2,
+        "raza": "Siames",
+        "tamano": "Pequeño",
+        "tipo": "Felino",
+        "fecha": "22/10/2025",
+        "enfermedad": "",
+        "historial_clinico": [
+            {
+                "fecha": "01/08/2025",
+                "enfermedad": "Resfriado",
+                "tratamiento": "Vitaminas"
+            },
+            {
+                "fecha": "10/09/2025",
+                "enfermedad": "pulgas",
+                "tratamiento": "Baño antipulgas"
+            }
+        ]
+    },
+    {
+        "id": 1003,
+        "nombre": "Piquito",
+        "edad": 1,
+        "peso": 0.3,
+        "raza": "Canario",
+        "tamano": "Pequeño",
+        "tipo": "Ave",
+        "fecha": "23/10/2025",
+        "enfermedad": "",
+        "historial_clinico": [
+            {
+                "fecha": "15/10/2025",
+                "enfermedad": "Resfriado",
+                "tratamiento": "Vitaminas"
+            }
+        ]
+    },
+    {
+        "id": 1004,
+        "nombre": "Rex",
+        "edad": 5,
+        "peso": 20.0,
+        "raza": "Pastor Alemán",
+        "tamano": "Grande",
+        "tipo": "Canino",
+        "fecha": "21/10/2025",
+        "enfermedad": "",
+        "historial_clinico": [
+            {
+                "fecha": "01/09/2025",
+                "enfermedad": "Diarrea",
+                "tratamiento": "Suero oral"
+            },
+            {
+                "fecha": "27/10/2025",
+                "enfermedad": "corazón",
+                "tratamiento": "descanso"
+            },
+            {
+                "fecha": "27/10/2025",
+                "enfermedad": "corazón",
+                "tratamiento": "descanso"
+            }
+        ]
+    },
+    {
+        "id": 1005,
+        "nombre": "Luna",
+        "edad": 3,
+        "peso": 3.5,
+        "raza": "Persa",
+        "tamano": "Pequeño",
+        "tipo": "Felino",
+        "fecha": "19/10/2025",
+        "enfermedad": "",
+        "historial_clinico": [
+            {
+                "fecha": "10/08/2025",
+                "enfermedad": "pulgas",
+                "tratamiento": "Desparasitante"
+            }
+        ]
+    },
+    {
+        "id": 1006,
+        "nombre": "Tweety",
+        "edad": 2,
+        "peso": 0.25,
+        "raza": "Canario Amarillo",
+        "tamano": "Pequeño",
+        "tipo": "Ave",
+        "fecha": "20/10/2025",
+        "enfermedad": "",
+        "historial_clinico": [
+            {
+                "fecha": "05/09/2025",
+                "enfermedad": "fractura ala",
+                "tratamiento": "Vendaje y reposo"
+            },
+            {
+                "fecha": "27/10/2025",
+                "enfermedad": "fractura ala",
+                "tratamiento": "Vendaje y reposo"
+            }
+        ]
+    },
+    {
+        "id": 1007,
+        "nombre": "Bruno",
+        "edad": 6,
+        "peso": 25.0,
+        "raza": "Golden Retriever",
+        "tamano": "Grande",
+        "tipo": "Canino",
+        "fecha": "18/10/2025",
+        "enfermedad": "",
+        "historial_clinico": [
+            {
+                "fecha": "10/07/2025",
+                "enfermedad": "Gripe",
+                "tratamiento": "Antibióticos"
+            }
+        ]
+    },
+    {
+        "id": 1011,
+        "nombre": "Simba",
+        "edad": 2,
+        "peso": 4.0,
+        "raza": "Maine Coon",
+        "tamano": "Mediano",
+        "tipo": "Felino",
+        "fecha": "24/10/2025",
+        "enfermedad": "",
+        "historial_clinico": [
+            {
+                "fecha": "15/08/2025",
+                "enfermedad": "Parásitos",
+                "tratamiento": "Desparasitante"
+            },
+            {
+                "fecha": "24/10/2025",
+                "enfermedad": "parbovirus",
+                "tratamiento": "inyecciones"
+            },
+            {
+                "fecha": "27/10/2025",
+                "enfermedad": "parbovirus",
+                "tratamiento": "inyecciones"
+            }
+        ]
+    }
+]
